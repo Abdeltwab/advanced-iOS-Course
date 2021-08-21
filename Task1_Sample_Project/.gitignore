@@ -25,6 +25,9 @@ DerivedData/
 ## Obj-C/Swift specific
 *.hmap
 
+Pods/
+#Podfile.lock  # changed my mind on Podfile.lock
+
 ## App packaging
 *.ipa
 *.dSYM.zip

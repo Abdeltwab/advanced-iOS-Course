@@ -6,5 +6,5 @@ target 'Task1_Sample_Project' do
   use_frameworks!
 
   # Pods for Task1_Sample_Project
-
+   pod 'Alamofire', '~> 5.4' 
 end
